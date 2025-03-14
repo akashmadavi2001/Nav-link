@@ -9,6 +9,6 @@ window.onscroll = () => {
                 links.classList.remove('active');
                 document.querySelector('a[href*=' + id + ']').classList.add('active');
             })
-        }
+        };
     });
-}
+};
