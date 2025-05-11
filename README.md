@@ -2,4 +2,4 @@
 Nav link on scroll
 Scroll animation
 
-https://github.com/user-attachments/assets/6ce827cf-f5a9-4a2e-9740-fceabffae079
+![Image](https://github.com/user-attachments/assets/188fd5d4-3395-49cd-96ba-824442eebb20)
