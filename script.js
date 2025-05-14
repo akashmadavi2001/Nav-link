@@ -12,3 +12,15 @@ window.onscroll = () => {
         };
     });
 };
+
+let navlist = document.querySelector('.list');
+let checkbox = document.querySelector('.checkbox');
+
+checkbox.addEventListener('click', () => {
+    if (navlist.style.top == '50px') {
+        navlist.style.top = '-250px';
+    }
+    else {
+        navlist.style.top = '50px';
+    }
+})
