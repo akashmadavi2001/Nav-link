@@ -58,10 +58,7 @@ li a.active {
 .items:nth-child(odd) {
     background-color: rgb(210, 210, 210);
 }
-.container {
-    display: none;
-}
-
+.container ,
 .checkbox {
     display: none;
 }
