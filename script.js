@@ -23,4 +23,5 @@ checkbox.addEventListener('click', () => {
     else {
         navlist.style.top = '50px';
     }
-})
+});
+
